@@ -1,5 +1,6 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&center=true&multiline=true&width=435&height=70&lines=Learn+something+new+to+get+better;Dont+stop+on+what+you+can+do)](https://git.io/typing-svg)
-
+<p>
 
 ### Hi there 👋,  mein Name ist Roman
 #### The Little Man in the Big World
