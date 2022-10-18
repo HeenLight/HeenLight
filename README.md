@@ -11,6 +11,9 @@
 ### Programming languages
 <a href="#">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/C++.svg" alt="C++" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 
