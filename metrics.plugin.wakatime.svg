@@ -61,18 +61,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PC_DRPC</span>
-                                <div class="bar" style="width: 44.151999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">55%</span>
+                                <div class="bar" style="width: 44.464%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RichVPN_CLI</span>
-                                <div class="bar" style="width: 35.288%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 35.536%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">44%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">IPMI_Api_C++</span>
-                                <div class="bar" style="width: 0.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -81,17 +76,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 73.808%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
+                                <div class="bar" style="width: 74.336%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">93%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">unknown</span>
-                                <div class="bar" style="width: 1.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
@@ -101,7 +96,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 0.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.21600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
