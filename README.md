@@ -3,8 +3,6 @@
 <p>
 
 ### Hi there 👋,  mein Name ist Roman
-#### The Little Man in the Big World
-![The Little Man in the Big World](https://imgs.search.brave.com/rlFXiKiEbnxEht7qM_BusHLO08Rj-N-ALaJu7Yt5blw/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJmb3J1LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wNS9XYWxscGFw/ZXItU2hvb3Rpbmct/U3Rhci1EaWdpdGFs/LUFydC1TaG9vdGlu/Zy1TdGFyLVBhaW50/aW40MS5qcGc)
 
 *Progressing in programming, learning languages(English, Deutsch, little Chinese), trying to be well-rounded.*
 
