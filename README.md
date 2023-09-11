@@ -26,7 +26,5 @@
   </a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeenLight)](https://github.com/anuraghazra/github-readme-stats)
-<a href="#">
-    <img src="metrics.plugin.wakatime.svg">
-  </a>  
+
   
